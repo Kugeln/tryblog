@@ -15,9 +15,12 @@ tags: 水一水
 
 ```c++
 /*上传代码
+hexo clean
+hexo s
+hexo d
 git add .
-git commit -m 
-git push origin main
+git commit -m ""
+git push -u origin main
 */
 ```
 
