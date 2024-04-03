@@ -48,8 +48,8 @@ categories: 复盘
 | Bellman-Ford算法                        | 1    | 1    |      |
 | spfa 算法（队列优化的Bellman-Ford算法） | 1    | 1    |      |
 | spfa判断图中是否存在负环                | 1    | 1    |      |
-| floyd算法                               |      |      |      |
-| 朴素版prim算法                          |      |      |      |
+| floyd算法                               | 1    | 1    |      |
+| 朴素版prim算法                          | 1    | 1    |      |
 | Kruskal算法                             |      |      |      |
 | 染色法判别二分图\|                      |      |      |      |
 | 匈牙利算法                              |      |      |      |
