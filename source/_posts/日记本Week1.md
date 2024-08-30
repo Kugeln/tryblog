@@ -3,6 +3,9 @@ title: 日记本
 date: 2024-03-11 01:24:47
 tags: 日程计划
 categories: 复盘
+sticky: 107
+banner_img: /img/1920x1080 (10).jpg
+index_img: /img/1920x1080 (10).jpg
 ---
 
 ## 2024.8.27
